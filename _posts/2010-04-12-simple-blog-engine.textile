@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Simple Blog Engine
+---
+
+h1. {{ page.title }}
+
+p(meta). 12 April 2010 - Beijing 
+
+
+换到github写写blog试试, 感觉还可以, 在Vim下东西, 清洁溜溜的. jekyll生成的方式确实像作者说的, 完全是一种"programmer style", 其实是一种模板管理系统, 设计的比较灵活, 效果还不错, 这种东西其实挺有用的, 看以后有没机会用到产品中去.
+
+以后每次写完都要git push了..
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a>
